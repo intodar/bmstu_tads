@@ -1,2 +1,2 @@
 # bmstu_tads
-Types and data structures repo
+My types and data structures labworks from BMSTU
